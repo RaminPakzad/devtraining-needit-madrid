@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="accidents" max_length="40" name="x_58872_needit_accidents" sizeclass="1" type="collection">
+        <element label="MyOwnCol" max_length="40" name="myowncol" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Student" max_length="40" name="x_58872_needit_student" type="collection">
+        <element label="age" max_length="99" name="age" type="integer"/>
+        <element choice="1" label="Full Name" max_length="50" name="full_name" type="string">
+            <choice/>
+        </element>
+        <element label="id" max_length="40" name="id" type="integer"/>
+        <element display="true" label="location" max_length="30" name="location" type="string"/>
+    </element>
+</database>
